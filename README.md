@@ -38,7 +38,7 @@ Follow these steps to get your project up and running:
 
 ## Usage
 
-1. Configure your project settings, such as database connection, keys, etc., by creating a config.yml file in the root directory. Use the provided config.yml.example as a template.
+1. Configure your project settings, such as database connection, keys, etc., by creating a `config.yml` file in the root directory. Use the provided `config.yml.example` as a template.
 
 2. Ensure you have a running MySQL instance.
 
