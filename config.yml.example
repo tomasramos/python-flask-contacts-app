@@ -1,0 +1,12 @@
+server:
+  host: your-server-host
+  port: your-server-port
+
+database:
+  host: your-database-host
+  user: your-database-user
+  password: your-database-password
+  db: your-database-db
+
+settings:
+  secret_key: your-settings-secret-key

@@ -1,0 +1,33 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Log files
+logs/
+*.log
+
+# Automatically generated files
+instance/
+
+# Database files
+*.db
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+*.yml
+
+# Python Wheel files
+*.whl
